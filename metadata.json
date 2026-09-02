@@ -1,0 +1,7 @@
+{
+  "name": "Evelyn Bites",
+  "description": "Artisanal bakery and baking academy in Nansana Municipality, Plot 8 Kampala-Hoima Road. Custom ceremony cakes, golden mandazi, warm buns, fresh loaves, price list, gallery, and weekend masterclasses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
